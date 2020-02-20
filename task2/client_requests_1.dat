@@ -1,0 +1,5 @@
+1 read 3
+4 write 2 changedByMe
+6 read 2
+8 write 2 changedTwice
+11 read 2
